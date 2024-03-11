@@ -1,0 +1,290 @@
+{
+  "bun": {
+    "category": "Chifla",
+    "dataOption": 3,
+    "options": [
+      {
+        "name": "CHIFLA BRIOCHE",
+        "value": "brioche",
+        "info": {
+          "price": 8,
+          "url": "/src/assets/chifla-1.svg",
+          "grams": 60
+        }
+      }
+    ]
+  },
+  "meat": {
+    "category": "Carne",
+    "dataOption": 4,
+    "options": [
+      {
+        "name": "PARJOALA VITA",
+        "value": "beef-patty",
+        "info": {
+          "price": 35,
+          "url": "/src/assets/pirjoala-vita.svg",
+          "grams": 150
+        }
+      },
+      {
+        "name": "FILEU PUI PANE",
+        "value": "breaded-chicken-filet",
+        "info": {
+          "price": 25,
+          "url": "/src/assets/pirjoala-vita.svg",
+          "grams": 120
+        }
+      },
+      {
+        "name": "FILEU PUI GRILL",
+        "value": "grilled-chicken-filet",
+        "info": {
+          "price": 25,
+          "url": "/src/assets/pirjoala-pui.svg",
+          "grams": 130
+        }
+      }
+    ]
+  },
+  "bottomSauce": {
+    "category": "SOS CHIFLA TOP",
+    "dataOption": 2,
+    "options": [
+      {
+        "name": "-",
+        "value": "none",
+        "info": {
+          "price": 0,
+          "url": "",
+          "grams": 0
+        }
+      },
+      {
+        "name": "SOS KETCHUP",
+        "value": "ketchup",
+        "info": {
+          "price": 4,
+          "url": "/src/assets/ketchup.svg",
+          "grams": 20
+        }
+      },
+      {
+        "name": "SOS TARTAR",
+        "value": "tartar",
+        "info": {
+          "price": 4,
+          "url": "/src/assets/tartar.svg",
+          "grams": 30
+        }
+      },
+      {
+        "name": "SOS USTUROI&BBQ",
+        "value": "usturoi",
+        "info": {
+          "price": 4,
+          "url": "/src/assets/usturoi.svg",
+          "grams": 15
+        }
+      },
+      {
+        "name": "SOS SRIRACHA (iute)",
+        "value": "sriracha",
+        "info": {
+          "price": 6,
+          "url": "/src/assets/maioneza.svg",
+          "grams": 15
+        }
+      },
+      {
+        "name": "SOS CLASSY",
+        "value": "classy",
+        "info": {
+          "price": 4,
+          "url": "/src/assets/sos-CLASSY.svg",
+          "grams": 15
+        }
+      }
+    ]
+  },
+  "topSauce": {
+    "category": "SOS CHIFLA JOS",
+    "dataOption": 8,
+    "options": [
+      {
+        "name": "-",
+        "value": "none",
+        "info": {
+          "price": 0,
+          "url": "",
+          "grams": 0
+        }
+      },
+      {
+        "name": "SOS KETCHUP",
+        "value": "ketchup",
+        "info": {
+          "price": 4,
+          "url": "/src/assets/ketchup.svg",
+          "grams": 20
+        }
+      },
+      {
+        "name": "SOS TARTAR",
+        "value": "tartar",
+        "info": {
+          "price": 4,
+          "url": "/src/assets/tartar.svg",
+          "grams": 30
+        }
+      },
+      {
+        "name": "SOS USTUROI&BBQ",
+        "value": "usturoi",
+        "info": {
+          "price": 4,
+          "url": "/src/assets/usturoi.svg",
+          "grams": 15
+        }
+      },
+      {
+        "name": "SOS SRIRACHA (iute)",
+        "value": "sriracha",
+        "info": {
+          "price": 6,
+          "url": "/src/assets/maioneza.svg",
+          "grams": 15
+        }
+      },
+      {
+        "name": "SOS CLASSY",
+        "value": "classy",
+        "info": {
+          "price": 4,
+          "url": "/src/assets/sos-CLASSY.svg",
+          "grams": 15
+        }
+      }
+    ]
+  },
+  "cheese": {
+    "category": "Cascaval",
+    "dataOption": 5,
+    "options": [
+      {
+        "name": "-",
+        "value": "none",
+        "info": {
+          "price": 0,
+          "url": "",
+          "grams": 0
+        }
+      },
+      {
+        "name": "CAȘCAVAL CHEDDAR",
+        "value": "cheddar-cheese",
+        "info": {
+          "price": 12,
+          "url": "/src/assets/cheddar.svg",
+          "grams": 20
+        }
+      },
+      {
+        "name": "CAȘCAVAL DORBLU",
+        "value": "dorblu-cheese",
+        "info": {
+          "price": 15,
+          "url": "/src/assets/dorblu.svg",
+          "grams": 18
+        }
+      }
+    ]
+  },
+  "toppings": {
+    "category": "Topping",
+    "dataOption": 6,
+    "options": [
+      {
+        "name": "-",
+        "value": "none",
+        "info": {
+          "price": 0,
+          "url": "",
+          "grams": 0
+        }
+      },
+      {
+        "name": "BACON CROCANT",
+        "value": "bacon",
+        "info": {
+          "price": 2,
+          "url": "/src/assets/bacon.svg",
+          "grams": 5
+        }
+      },
+      {
+        "name": "OU PRĂJIT",
+        "value": "ou",
+        "info": {
+          "price": 3,
+          "url": "/src/assets/ou-prajit.svg",
+          "grams": 8
+        }
+      },
+      {
+        "name": "CEAPĂ MARIN",
+        "value": "ceapa-marin",
+        "info": {
+          "price": 2,
+          "url": "/src/assets/ceapa-marinata.svg",
+          "grams": 5
+        }
+      },
+      {
+        "name": "CEAPĂ CARAMEL",
+        "value": "ceapa-caramel",
+        "info": {
+          "price": 3,
+          "url": "/src/assets/ceapa-caramelizata.svg",
+          "grams": 8
+        }
+      },
+      {
+        "name": "CASTRĂVEȚI PROASPEȚI",
+        "value": "castraveti-proaspeti",
+        "info": {
+          "price": 2,
+          "url": "/src/assets/ceapa-marinata.svg",
+          "grams": 5
+        }
+      },
+      {
+        "name": "CASTRĂVEȚI MURAȚI",
+        "value": "castraveti-murati",
+        "info": {
+          "price": 3,
+          "url": "/src/assets/castraveti-murati.svg",
+          "grams": 8
+        }
+      },
+      {
+        "name": "ROȘII",
+        "value": "rosie",
+        "info": {
+          "price": 2,
+          "url": "/src/assets/ceapa-marinata.svg",
+          "grams": 5
+        }
+      },
+      {
+        "name": "ICEBERG",
+        "value": "iceberg",
+        "info": {
+          "price": 3,
+          "url": "/src/assets/ceapa-caramelizata.svg",
+          "grams": 8
+        }
+      }
+    ]
+  }
+}

@@ -7,7 +7,7 @@ const NavBar: React.FC = () => {
         <div className="header-inner">
           <div className="header-logo">
             <a href="/">
-              <img src="../public/logo.svg" alt="burgercraft-logo" />
+              <img src="../logo.svg" alt="burgercraft-logo" />
             </a>
           </div>
           <div className="header-middle">
@@ -32,18 +32,21 @@ const NavBar: React.FC = () => {
               <div className="cart-ico"></div>
             </div>
             <div className="header-menu">
-              <p>Home</p>
-              <p>Menu</p>
-              <p className="selected-menu ">Do Your Yourself</p>
-              <p>About Us</p>
+              <a>acasa</a>
+              <a>Meniu</a>
+              <a href="/burger" className="selected-menu ">
+                Creaza-ti burgerul
+              </a>
+              <a>Despre noi</a>
+              <a>Blog </a>
             </div>
           </div>
           <div className="header-auth">
             <a href="/">
-              <p>LOGIN</p>
+              <p>LOGARE</p>
             </a>
             <a href="/register">
-              <p>REGISTER</p>
+              <p>REGISTRARE</p>
             </a>
           </div>
         </div>

@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Files .txt, .jpg
+bred.txt
+db_struct.jpg
+
